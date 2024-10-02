@@ -1,0 +1,9 @@
+AI Friend README
+Overview
+Welcome to the AI Friend project! This innovative application is designed to create a virtual companion capable of engaging in meaningful conversations through chat and natural voice interactions. Our AI Friend is equipped with emotional intelligence, allowing it to respond appropriately to various emotional cues and contexts, making interactions more relatable and enjoyable.
+Features
+Natural Language Processing (NLP): Understands and processes user input in a conversational manner.
+Voice Interaction: Engages users through natural voice responses, enhancing the user experience.
+Emotional Intelligence: Detects and responds to user emotions, creating a more empathetic interaction.
+Personalization: Learns from user interactions to provide tailored responses and suggestions.
+Multi-Platform Support: Accessible on various platforms, including mobile devices, web applications, and smart speakers.
